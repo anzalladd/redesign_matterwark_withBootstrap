@@ -1,0 +1,292 @@
+*,body{
+    margin: 0;
+    padding: 0;
+    font-family:  'Roboto', sans-serif !important;
+}
+
+a{
+    text-decoration: none !important;
+    text-decoration-style: none !important;
+    color: black;
+}
+a:hover{
+    color: black;
+}
+li{
+    list-style-type: none;
+}
+.cont{
+    margin: 0 200px !important;
+}
+#judul_img{
+    position: absolute;
+    width: 1084.91px;
+    height: 1038.36px;
+    right: 0;
+}
+
+#logo{
+    width: 352px;
+    height: 88px;
+    margin-top: 60.14px;
+}
+.navv{
+    margin-top: 83px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.navv > a  {
+    margin-right: 47px;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.btn-free{
+    padding: 15px 39px 13px 40px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    background-image: linear-gradient(to bottom right,#5BC7D1,#0DB5CA);
+}
+
+.btn-free{
+    cursor: pointer;
+}
+.isi{
+    margin-top: 207.86px;
+}
+.isi  .judul h1{
+    font-weight: bold;
+    color: #28366A;
+    font-size: 60px;
+}
+.judul_2{
+    margin-top: 64.14px;
+}
+.isi .judul_2 p{
+    font-weight: 400;
+    color: #2E3C6E;
+    font-size: 27px;
+   
+}
+.judul_3{
+    margin-top: 85px;
+}
+.judul_3 button{
+    color: white;
+    background-image: linear-gradient(to bottom right,#A4E3EB,#0DB5CA);
+    padding: 27px 39px 26px 43px;
+    border: none;
+    border-radius: 5px;
+    font-size: 27px;
+    font-weight: 500;
+
+}
+.spon{
+    display: flex;
+    justify-content: flex-end;
+
+}
+#judul_img_2{
+    width: 846px;
+    height: 63px;
+    margin-top: 89px;
+    margin-right: 122.09px;
+}
+
+.content{
+    margin-top: 170px !important;
+}
+.cards{
+    width: 473px;
+    height: 517px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 30px 0px #ccc;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+}
+.cards img{
+    width: 104px;
+    height: 104px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.cards p:nth-child(2){
+    color: #28366A;
+    font-weight: 700;
+    font-size: 27px;
+    text-align: center;
+}
+.cards p:nth-child(3){
+    color: #28366A;
+    opacity: 0.6;
+    font-size: 27px;
+    text-align: center;
+}
+.cards div{
+    display: flex;
+    background: red;
+    justify-content: flex-end;
+    align-content: flex-end;
+    margin-top: 40px;
+}
+.cards a{
+    font-weight: 700;
+    font-size: 27px;
+    color: #0DB5CA;
+    text-transform: initial;
+    margin-top: 35px;
+}
+.judul{
+    margin-top: 170px;
+}
+.main h1{
+    font-weight: 700;
+    color: #28366A;
+    font-size: 60px;
+}
+.pertama{
+    margin-top: 156.84px !important;
+    margin-bottom: 260px !important;
+}
+.contentt {
+    margin-top:260px;
+}
+.kanan{
+    display: flex;
+    flex-direction: row;
+}
+.kiri{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.contentt img{
+    width: 758px;
+    height: 863px;
+}
+.kanan .isi_content{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 110px;
+}
+.kiri .isi_content{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-right: 110px;
+}
+.isi-content h1{
+    width: 570px;
+}
+.isi_content p{
+    color: #2E3C6E;
+    font-size: 27px;
+    margin-top: 65px;
+    width: 621px;
+}
+.isi_content a{
+    color: #0DB5CA;
+    font-size: 27px;
+    font-weight: 500;
+    margin-top: 56px;
+}
+.bar{
+    margin-top: 191px;
+}
+
+.barga{
+    margin-top: 135px;
+}
+.proj{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.tengah{
+    border-right:2px solid #D1D1D1;
+    border-left:2px solid #D1D1D1;
+
+
+}
+.proj img{
+    width: 113px;
+    height: 113px;
+    margin-top: 44px;
+    margin-bottom: 40px;
+}
+.proj p{
+    line-height: 30px;
+    text-align: center;
+}
+.proj p:nth-child(2){
+    font-weight: 600;
+    font-size: 27px;
+    color: #60698C;
+}
+.proj p:nth-child(3){
+    font-size: 27px;
+    color: #60698C;
+    opacity: .8;
+    margin-bottom: 44px;
+}
+.dua{
+    border-top: 2px solid #D1D1D1;
+}
+.bawah{
+    display: flex;
+    margin-top: 130px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.bawah p:nth-child(2){
+    width: 462px;
+    font-size: 27px;
+    color: #2E3C6E;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.bawah button{
+    margin-top: 89px;
+}
+footer{
+    width: 100%;
+    height: 540px;
+    margin-top: 197px;
+    background-color: #102E32;
+    color: white;
+}
+.isi_foot{
+    padding-top:170px;
+}
+.isi_foot h1{
+    font-size: 27px;
+    font-weight: 700;
+}
+.dul{
+    font-size: 45px !important;
+}
+.isi_foot ul{
+    margin-top: 21px;
+    font-size: 25px;
+}
+.fot{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    padding-right: 100px; 
+}
+.isi_foot ul li img{
+    width: 26px;
+    height: 26px;
+}
